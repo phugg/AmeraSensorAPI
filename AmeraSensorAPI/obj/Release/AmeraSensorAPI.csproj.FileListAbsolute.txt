@@ -1,0 +1,8 @@
+C:\Users\philip.hugg\Documents\Visual Studio 2015\Projects\AmeraSensorAPI\AmeraSensorAPI\bin\Release\AmeraSensorAPI.exe.config
+C:\Users\philip.hugg\Documents\Visual Studio 2015\Projects\AmeraSensorAPI\AmeraSensorAPI\bin\Release\AmeraSensorAPI.exe
+C:\Users\philip.hugg\Documents\Visual Studio 2015\Projects\AmeraSensorAPI\AmeraSensorAPI\bin\Release\AmeraSensorAPI.pdb
+C:\Users\philip.hugg\Documents\Visual Studio 2015\Projects\AmeraSensorAPI\AmeraSensorAPI\bin\Release\Newtonsoft.Json.dll
+C:\Users\philip.hugg\Documents\Visual Studio 2015\Projects\AmeraSensorAPI\AmeraSensorAPI\bin\Release\Newtonsoft.Json.xml
+C:\Users\philip.hugg\Documents\Visual Studio 2015\Projects\AmeraSensorAPI\AmeraSensorAPI\obj\Release\AmeraSensorAPI.exe
+C:\Users\philip.hugg\Documents\Visual Studio 2015\Projects\AmeraSensorAPI\AmeraSensorAPI\obj\Release\AmeraSensorAPI.pdb
+C:\Users\philip.hugg\Documents\Visual Studio 2015\Projects\AmeraSensorAPI\AmeraSensorAPI\obj\Release\AmeraSensorAPI.csprojResolveAssemblyReference.cache
